@@ -1,0 +1,19 @@
+Bug in main modules:
+When we mouse hover on the modules the texts are not displaying.
+
+Bug in Home:
+
+Please keep that image little bit high . Refer ss 1
+
+Bug in links:
+
+Below links are not getting highlighted.
+
+Bug in About us:
+
+Please keep that text as caps and bold. Refer ss 2
+
+Bug in contact us:
+
+Please change the font type of the input text. Rfer video ss3
+
