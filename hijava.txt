@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ,k,kthis is first file.
+=======
+mnhmjmujmumum,k,kkmujujujnjkumjuiklo.ol.loillop;olilo.l.lthis is first file.
+>>>>>>> 4846337473231d67ae41a8fa4542f9cc855c4313
